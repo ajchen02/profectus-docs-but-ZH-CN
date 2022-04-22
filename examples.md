@@ -1,7 +1,9 @@
-# Example Projects
+# 示范性游戏
 
 ## TMT-Demo
 
-[View Source](https://github.com/profectus-engine/tmt-demo) | [View Project](https://profectus-engine.github.io/TMT-Demo/)
+[查看仓库](https://github.com/profectus-engine/tmt-demo) | [查看游戏](https://profectus-engine.github.io/TMT-Demo/)
 
-A project loosely based off the Demo project for TMT. Uses most of the different features of Profectus, but doesn't have any real gameplay.
+一个不准确的Demo项目，基于TMT的相关Demo。 用了大多数Profectus的不同features，但并没有任何真正的gameplay。
+
+（译者注：基本上就是Profectus的使用大全，所有功能都能在里面找到相应的调用方法，然后抄就行了（bushi）
