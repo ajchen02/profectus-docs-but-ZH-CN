@@ -3,7 +3,7 @@
 ---
 # 介绍
 
-Profectus是一个网页游戏引擎。 You can write your content using many built in features, write your own features, and build up complex gameplay quickly and easily.
+Profectus是一个网页游戏引擎。你可以用内置的features制作游戏内容，写你自己的features，简单而又快速的制作复杂的gameplay。
 
 The purpose of creating profectus was to create an easy to use engine that does not create a ceiling for a programmer's personal growth. This engine will grow in complexity with you, empowering you to create increasingly complex designs and mechanics.
 
